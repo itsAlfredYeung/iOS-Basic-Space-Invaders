@@ -1,5 +1,7 @@
 # iOS-Basic-Space-Invaders
-School Project (DPS936) with aaronxiong1991 (https://github.com/aaronxiong1991)
+School Project (DPS923) with aaronxiong1991 (https://github.com/aaronxiong1991)
+
+Note: Folders say DPS936. It's DPS923.
 
 ---
 
